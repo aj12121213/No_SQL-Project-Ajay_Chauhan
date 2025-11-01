@@ -19,11 +19,11 @@ It helps students understand how to **store, query, update, and analyze** data e
 ## 🧾 Project Summary
 
 ### Collections Used
-- 🧑‍🎓 `students_full`  
-- 🧑‍🏫 `faculty_full`  
-- 📚 `courses_full`  
-- 📝 `enrollments_full`  
-- 🎯 `activities_full`
+- 🧑‍🎓 `students_full.json`  
+- 🧑‍🏫 `faculty_full.json`  
+- 📚 `courses_full.json`  
+- 📝 `enrollments_full.json`  
+- 🎯 `activities_full.json`
 
 ### Tasks Included
 1. Complex Filters & Projections  
