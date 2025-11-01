@@ -25,6 +25,15 @@ It helps students understand how to **store, query, update, and analyze** data e
 - 📝 `enrollments_full.json`  
 - 🎯 `activities_full.json`
 
+---
+
+## 💡 Practical Implementation
+I have completed this project by connecting **Mongosh (MongoDB Shell)** with **MongoDB Atlas (Cloud Database)**.  
+All queries were written and executed directly on the **MongoDB Atlas cluster** using **Mongosh CLI**, ensuring a real-time cloud-based environment for data operations.
+
+---
+
+
 ### Tasks Included
 1. Complex Filters & Projections  
 2. Joins ($lookup) and Aggregations  
